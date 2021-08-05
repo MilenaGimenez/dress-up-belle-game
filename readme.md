@@ -6,3 +6,4 @@
 #### [Link del juego](https://milenagimenez.github.io/dress-up-belle-game/)
 ***
 ##### Juego creado con [Kaboom.js](https://kaboomjs.com/)
+##### Disney Belle Base por [SelenaEde](https://www.deviantart.com/selenaede/art/Disney-Belle-Base-02-528205525)
