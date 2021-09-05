@@ -7,3 +7,6 @@
 ***
 ##### Juego creado con [Kaboom.js](https://kaboomjs.com/)
 ##### Disney Belle Base por [SelenaEde](https://www.deviantart.com/selenaede/art/Disney-Belle-Base-02-528205525)
+<br>
+
+![Vista del juego](./assets/screen-belle.png)
